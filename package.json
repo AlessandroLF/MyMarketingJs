@@ -1,0 +1,24 @@
+{
+  "name": "untitled-dashboard",
+  "version": "1.0.0",
+  "description": "First node.js page Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlessandroLF/UntitledDashboard.git"
+  },
+  "keywords": [
+    "dashboard",
+    "node.js"
+  ],
+  "author": "SandroMC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlessandroLF/UntitledDashboard/issues"
+  },
+  "homepage": "https://github.com/AlessandroLF/UntitledDashboard#readme"
+}
